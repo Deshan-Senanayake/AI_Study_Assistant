@@ -1,0 +1,12 @@
+langchain~=0.3.25
+transformers~=4.52.4
+sentence-transformers
+faiss-cpu
+pdfplumber
+PyMuPDF
+gradio~=5.34.1
+python-dotenv
+accelerate
+torch
+
+RapidFuzz~=3.13.0
