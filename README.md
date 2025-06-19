@@ -28,6 +28,12 @@ Automatically generates Q&A-style flashcards from your material — perfect for 
 Queries like "Summarize Slide 5" are matched against actual page content using fuzzy logic for accurate results.
 
 ---
+![image](https://github.com/user-attachments/assets/b0be2987-3971-45a3-91b6-a419c6ebccf2)
+![Screenshot 2025-06-19 181347](https://github.com/user-attachments/assets/fb136bc8-5339-4eee-9fa0-cb07dac1a4fb)
+![Screenshot 2025-06-19 181559](https://github.com/user-attachments/assets/45727f26-f502-44ac-8bc8-0cdfecd30a32)
+
+
+---
 
 ## 🛠 Tech Stack
 
