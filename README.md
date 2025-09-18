@@ -108,16 +108,6 @@ python -m ui.interface
 
 ---
 
-## 📷 Screenshots
-
-![Upload PDF](docs/screenshots/upload.png)
-![Ask Questions](docs/screenshots/question.png)
-![Summary + Flashcards](docs/screenshots/summary-flashcards.png)
-
-> You can replace these with your actual screenshots.
-
----
-
 ## 📦 Models Tested
 
 - `microsoft/phi-2` ✅ (recommended for speed and accuracy)
